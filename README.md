@@ -17,6 +17,14 @@ Run:
 python bikeshare.py
 ```
 
+
+## Requirements
+
+Python 
+Pandas
+NumPy
+
+
 ## Author
 
 Abdulmjeed
